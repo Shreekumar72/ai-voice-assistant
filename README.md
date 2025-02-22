@@ -24,3 +24,11 @@ pip install -r requirements.txt
 
 # Run the application
 uvicorn main:app --reload
+
+
+## 📽️ Video Demo
+[Watch the Video](https://www.loom.com/share/https://www.loom.com/share/25e0e5a6b84a4de6b5143661597496c4?sid=a1aa5fef-e374-4ef9-a74a-db445c16720f)
+
+Alternatively, you can embed the video directly like this:
+Watch the Video(https://www.loom.com/share/https://www.loom.com/share/25e0e5a6b84a4de6b5143661597496c4?sid=a1aa5fef-e374-4ef9-a74a-db445c16720f)
+
