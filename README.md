@@ -27,8 +27,9 @@ uvicorn main:app --reload
 
 
 ## 📽️ Video Demo
-[Watch the Video](https://www.loom.com/share/https://www.loom.com/share/25e0e5a6b84a4de6b5143661597496c4?sid=a1aa5fef-e374-4ef9-a74a-db445c16720f)
+[Watch the Video](https://www.loom.com/share/https://www.loom.com/share/25e0e5a6b84a4de6b5143661597496c4?sid=99236a94-c428-4caa-b37d-0e6e0219e646)
 
 Alternatively, you can embed the video directly like this:
-Watch the Video(https://www.loom.com/share/https://www.loom.com/share/25e0e5a6b84a4de6b5143661597496c4?sid=a1aa5fef-e374-4ef9-a74a-db445c16720f)
+[![Watch the Video](https://cdn.loom.com/sessions/thumbnails/YOUR_VIDEO_ID.jpg)](https://www.loom.com/share/https://www.loom.com/share/25e0e5a6b84a4de6b5143661597496c4?sid=99236a94-c428-4caa-b37d-0e6e0219e646)
+
 
